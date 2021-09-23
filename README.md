@@ -26,7 +26,7 @@ We get all the cities available with these conditions.
 
 ## STEP #3 Create a Travel Itinerary Map
 
-We create a travel itinerary that suggest 4 cities in USA that can be visited and have amazing sightseeing.
+We create a travel itinerary that suggest 4 cities in USA that can be visited, with hotel accommodations, and have amazing sightseeing.
 
 ![image](https://user-images.githubusercontent.com/87447639/134589704-a742cd48-74f7-4fad-80a2-358e2b36ade1.png)
 
